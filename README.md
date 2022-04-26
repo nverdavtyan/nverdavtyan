@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**nverdavtyan/nverdavtyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+'use strict'
 
-Here are some ideas to get you started:
+const nverdavtyan = {
+  user: {
+    name: 'Nver Davtyan',
+    gender: 'male',
+    birthyear: 1994,
+  },
+  contact: {
+    email: 'nver.davtyan@epitech.eu',
+    website: 'https://www.nverdavtyan.com',
+  },
+  interests: ['movies','travel'],
+  technologies: {
+    languages: ['PHP', 'Javascript','Bash'],
+    backend: {
+      php: ['laravel (⚡️)', 'symfony'],
+      javascript: ['express', 'node'],
+    },
+    frontend: {
+      mobile: ['react native'],
+      javascript: ['react (⚡️)', 'vue', 'jquery', 'vanilla'],
+    },
+    devOps: {
+      tools: ['github'],
+      systems: ['osx', 'windows'],
+    },
+    databases: {
+      sql: ['mysql', 'sqlite'],
+      nosql: [ 'mongodb']
+    },
+  }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
