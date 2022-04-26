@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 'use strict'
-
+```javascript
 const nverdavtyan = {
   user: {
     name: 'Nver Davtyan',
