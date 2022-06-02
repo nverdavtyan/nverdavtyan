@@ -1,5 +1,5 @@
 <h2 align="left">
-Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  /></h2>
+Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" height="60px"  /></h2>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=white)](https://nverdavtyan.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nverdavtyan)
