@@ -21,7 +21,7 @@ const nverdavtyan = {
     },
     frontend: {
       mobile: ['react native'],
-      javascript: ['react (⚡️)', 'vue', 'jquery', 'vanilla'],
+      javascript: ['react (⚡️)', 'jquery', 'vanilla'],
     },
     devOps: {
       tools: ['github'],
