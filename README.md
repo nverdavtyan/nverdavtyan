@@ -1,5 +1,6 @@
-<h2 align="left">
-Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70px" height="70px" /></h2>
+<h1 align="center">Hi 👋, I'm Nver</h1>
+<h3 align="center"> Full-Stack developer from Paris  🇫🇷</h3>
+
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=white)](https://nverdavtyan.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nverdavtyan)
